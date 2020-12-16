@@ -1,10 +1,11 @@
-hjdhjshds 
+*{
+    padding:0px;
+    margin:0px;
 
-sddhjdhsd
+}
+.navbar-nav{
 
-
-sdksdjd 
-
-jksjdkjs  
-
-
+    background-color: rgb(8, 8, 90);
+    width: 20%;
+    height: 650px;
+}
